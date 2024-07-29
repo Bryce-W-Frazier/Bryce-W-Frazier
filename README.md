@@ -1,5 +1,5 @@
 - Hi, I’m @Bryce-W-Frazier
-- Checkout my website at [www.brycewfrazier.com]{www.brycewfrazier.com}
+- Checkout my website at [www.brycewfrazier.com](https://www.brycewfrazier.com)
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
