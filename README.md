@@ -1,6 +1,5 @@
 - Hi, I’m @Bryce-W-Frazier
-- I’m interested in open IoT systems
-- I’m currently learning Cisco CCNA
+- Checkout my website at [www.brycewfrazier.com]{www.brycewfrazier.com}
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
